@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Nombre </string>
+    <string name="hint_nombre">Digite el nombre</string>
+    <string name="correo">Correo</string>
+    <string name="hint_correo">Digite el correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="hint_telefono">Digite el telefono</string>
+    <string name="button">OK</string>
+
+</resources>
